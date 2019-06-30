@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="./header.svg">
+    <img src="./header.png" alt="nova" width="75%">
 </div>
 <br>
 
