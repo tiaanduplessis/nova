@@ -1,0 +1,17 @@
+{
+  "name": "nova-compose",
+  "version": "1.0.0",
+  "description": "Compose functions",
+  "main": "dist/compose.js",
+  "unpkg": "dist/compose.umd.js",
+  "module": "dist/compose.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

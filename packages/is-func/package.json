@@ -1,0 +1,17 @@
+{
+  "name": "nova-is-func",
+  "version": "1.0.0",
+  "description": "Check if one or more values are functions",
+  "main": "dist/is-func.js",
+  "unpkg": "dist/is-func.umd.js",
+  "module": "dist/is-func.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

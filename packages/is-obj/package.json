@@ -1,0 +1,17 @@
+{
+  "name": "nova-is-obj",
+  "version": "1.0.0",
+  "description": "Check if value is object",
+  "main": "dist/is-obj.js",
+  "unpkg": "dist/is-obj.umd.js",
+  "module": "dist/is-obj.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

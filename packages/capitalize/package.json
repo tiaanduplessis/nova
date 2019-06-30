@@ -1,0 +1,17 @@
+{
+  "name": "nova-capitalize",
+  "version": "1.0.0",
+  "description": "Capitalize each word in a string",
+  "main": "dist/capitalize.js",
+  "unpkg": "dist/capitalize.umd.js",
+  "module": "dist/capitalize.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

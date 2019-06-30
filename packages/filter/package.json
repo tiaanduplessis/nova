@@ -1,0 +1,17 @@
+{
+  "name": "nova-filter",
+  "version": "1.0.0",
+  "description": "Iterates over elements returning an array of all elements predicate returns truthy",
+  "main": "dist/filter.js",
+  "unpkg": "dist/filter.umd.js",
+  "module": "dist/filter.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

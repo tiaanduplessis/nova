@@ -1,0 +1,17 @@
+{
+  "command": {
+    "create": {
+      "license": "MIT"
+    },
+    "publish": {
+      "publish": {
+        "npmClient": "yarn"
+      }
+    }
+  },
+  "loglevel": "success",
+  "packages": ["packages/*"],
+  "version": "independent",
+  "npmClient": "yarn",
+  "registry": "https://registry.npmjs.org/"
+}

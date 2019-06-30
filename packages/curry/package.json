@@ -1,0 +1,17 @@
+{
+  "name": "nova-curry",
+  "version": "1.0.0",
+  "description": "Curry a function",
+  "main": "dist/curry.js",
+  "unpkg": "dist/curry.umd.js",
+  "module": "dist/curry.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

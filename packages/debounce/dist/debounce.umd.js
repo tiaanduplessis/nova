@@ -1,0 +1,2 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):e.novaDebounce=n()}(this,function(){return function(e,n,o){var t;return void 0===n&&(n=250),void 0===o&&(o=!1),function(){for(var i=this,u=[],f=arguments.length;f--;)u[f]=arguments[f];var r=o&&!t;clearTimeout(t),t=setTimeout(function(){t=null,!o&&e.apply(i,u)},n),r&&e.apply(this,u)}}});
+//# sourceMappingURL=debounce.umd.js.map

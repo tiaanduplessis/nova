@@ -1,0 +1,17 @@
+{
+  "name": "nova-is-num",
+  "version": "1.0.0",
+  "description": "Check if one or more values are numbers",
+  "main": "dist/is-num.js",
+  "unpkg": "dist/is-num.umd.js",
+  "module": "dist/is-num.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

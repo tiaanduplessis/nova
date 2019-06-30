@@ -1,0 +1,7 @@
+{
+    "extends": "nitpicky",
+    "env": {
+        "browser": true,
+        "jest": true
+    }
+}

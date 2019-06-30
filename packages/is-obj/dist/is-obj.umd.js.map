@@ -1,0 +1,1 @@
+{"version":3,"file":"is-obj.umd.js","sources":["../src/index.js"],"sourcesContent":["/**\n * Check if value is object\n * @param {*} val Value to check\n */\nexport default function isObj(val) {\n  return val && typeof val === 'object' && val.constructor === Object\n}\n"],"names":["val","constructor","Object"],"mappings":"+KAIe,SAAeA,GAC5B,OAAOA,GAAsB,iBAARA,GAAoBA,EAAIC,cAAgBC"}

@@ -1,0 +1,17 @@
+{
+  "name": "nova-is-empty",
+  "version": "1.0.0",
+  "description": "Check if string, object or array empty",
+  "main": "dist/is-empty.js",
+  "unpkg": "dist/is-empty.umd.js",
+  "module": "dist/is-empty.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

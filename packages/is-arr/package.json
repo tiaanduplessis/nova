@@ -1,0 +1,17 @@
+{
+  "name": "nova-is-arr",
+  "version": "1.0.0",
+  "description": "Check if value is a array",
+  "main": "dist/is-arr.js",
+  "unpkg": "dist/is-arr.umd.js",
+  "module": "dist/is-arr.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

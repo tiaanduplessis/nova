@@ -1,0 +1,17 @@
+{
+  "name": "nova-debounce",
+  "version": "1.0.0",
+  "description": "Debounce function invocations",
+  "main": "dist/debounce.js",
+  "unpkg": "dist/debounce.umd.js",
+  "module": "dist/debounce.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

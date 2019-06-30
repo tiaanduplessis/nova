@@ -1,0 +1,17 @@
+{
+  "name": "nova-range",
+  "version": "1.0.0",
+  "description": "JS version of Python range function",
+  "main": "dist/range.js",
+  "unpkg": "dist/range.umd.js",
+  "module": "dist/range.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

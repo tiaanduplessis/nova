@@ -1,0 +1,17 @@
+{
+  "name": "nova-utils",
+  "version": "1.0.0",
+  "description": "Modular collection of utilities",
+  "main": "dist/utils.js",
+  "unpkg": "dist/utils.umd.js",
+  "module": "dist/utils.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

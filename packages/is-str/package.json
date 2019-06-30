@@ -1,0 +1,17 @@
+{
+  "name": "nova-is-str",
+  "version": "1.0.0",
+  "description": "Check if value is string",
+  "main": "dist/is-str.js",
+  "unpkg": "dist/is-str.umd.js",
+  "module": "dist/is-str.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

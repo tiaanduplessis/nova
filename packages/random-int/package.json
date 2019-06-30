@@ -1,0 +1,17 @@
+{
+  "name": "nova-random-int",
+  "version": "1.0.0",
+  "description": "Get a random integer in range",
+  "main": "dist/random-int.js",
+  "unpkg": "dist/random-int.umd.js",
+  "module": "dist/random-int.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

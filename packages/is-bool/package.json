@@ -1,0 +1,17 @@
+{
+  "name": "nova-is-bool",
+  "version": "1.0.0",
+  "description": "Check if value is boolean",
+  "main": "dist/is-bool.js",
+  "unpkg": "dist/is-bool.umd.js",
+  "module": "dist/is-bool.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

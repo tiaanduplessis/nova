@@ -1,0 +1,17 @@
+{
+  "name": "nova-has-prop",
+  "version": "1.0.0",
+  "description": "Check if nested key exists in a object",
+  "main": "dist/get-prop.js",
+  "unpkg": "dist/get-prop.umd.js",
+  "module": "dist/get-prop.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

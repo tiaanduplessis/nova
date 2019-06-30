@@ -1,0 +1,2 @@
+module.exports=function(t){return void 0===t&&(t=""),function(){for(var t=[],r=arguments.length;r--;)t[r]=arguments[r];return t.every(function(t){return"[object String]"===Object.prototype.toString.call(t)})}(t)&&""===t||function(t){var r=Array.isArray||function(t){return"[object Array]"===Object.prototype.toString.call(t)};return t&&r(t)}(t)&&0===t.length||function(t){return t&&"object"==typeof t&&t.constructor===Object}(t)&&0===Object.keys(t).length};
+//# sourceMappingURL=is-empty.js.map

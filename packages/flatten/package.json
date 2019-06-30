@@ -1,0 +1,17 @@
+{
+  "name": "nova-flatten",
+  "version": "1.0.0",
+  "description": "Flattens array",
+  "main": "dist/flatten.js",
+  "unpkg": "dist/flatten.umd.js",
+  "module": "dist/flatten.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

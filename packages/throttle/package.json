@@ -1,0 +1,17 @@
+{
+  "name": "nova-throttle",
+  "version": "1.0.0",
+  "description": "Throttle a function's invocation",
+  "main": "dist/throttle.js",
+  "unpkg": "dist/throttle.umd.js",
+  "module": "dist/throttle.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

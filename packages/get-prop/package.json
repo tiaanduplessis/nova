@@ -1,0 +1,17 @@
+{
+  "name": "nova-get-prop",
+  "version": "1.0.0",
+  "description": "Get a nested object property using dot notation",
+  "main": "dist/get-prop.js",
+  "unpkg": "dist/get-prop.umd.js",
+  "module": "dist/get-prop.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

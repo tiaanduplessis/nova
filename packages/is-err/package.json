@@ -1,0 +1,17 @@
+{
+  "name": "nova-is-err",
+  "version": "1.0.0",
+  "description": "Check if value is error",
+  "main": "dist/is-err.js",
+  "unpkg": "dist/is-err.umd.js",
+  "module": "dist/is-err.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

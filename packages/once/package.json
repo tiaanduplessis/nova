@@ -1,0 +1,17 @@
+{
+  "name": "nova-once",
+  "version": "1.0.0",
+  "description": "Invoke function only once",
+  "main": "dist/once.js",
+  "unpkg": "dist/once.umd.js",
+  "module": "dist/once.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}

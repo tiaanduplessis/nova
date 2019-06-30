@@ -1,0 +1,17 @@
+{
+  "name": "nova-randomize-arr",
+  "version": "1.0.0",
+  "description": "Randomize items in array",
+  "main": "dist/randomize-arr.js",
+  "unpkg": "dist/randomize-arr.umd.js",
+  "module": "dist/randomize-arr.es.js",
+  "repository": "https://github.com/bitlevel-io/nova",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "microbundle": "0.7.0"
+  }
+}
