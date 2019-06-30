@@ -32,7 +32,7 @@ import { flatten } from 'nova-utils'
 console.log(flatten([1, [2, 3, [4]]]) // [1, 2, 3, 4]
 ```
 
-Check out the [docs](https://bitlevel-io.github.io/nova/) for more detail.
+Check out the [docs](https://tiaanduplessis.github.io/nova/) for more detail.
 
 ## Contribute
 
