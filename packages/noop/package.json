@@ -13,6 +13,6 @@
     "build": "microbundle"
   },
   "devDependencies": {
-    "microbundle": "0.7.0"
+    "microbundle": "0.11.0"
   }
 }
